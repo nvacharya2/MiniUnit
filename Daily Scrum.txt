@@ -1,2 +1,5 @@
 Nov. 19, 2019
 More research!! Haha
+Utilize online data to create a specific machine learning program- possibly start this at the end of week 
+Brainstorm possible limitations that come with our machines - areas of study that made me restricted
+
