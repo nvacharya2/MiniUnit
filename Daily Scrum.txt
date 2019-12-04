@@ -1,4 +1,4 @@
-Nov. 19, 2019
+11/19/19
 More research
 Utilize online data to create a specific machine learning program- possibly start this at the end of week 
 Brainstorm possible limitations that come with our machines - areas of study that made me restricted
@@ -33,3 +33,7 @@ some of the ML tools that have been taught to us. We are looking over the Machin
 the homepage of Google Collabs. Our plan is to get finish up with the content of this course which consists of: Intro to Pandas,
 TensorFlow concepts, First steps with TensorFlow, Intro to neural nets, Intro to sparse data and embeddings. Doing the same things
 as we did before. This crash course took a while, but we were able to get a lot from the new information we found.
+
+12/4/19
+We are continuing our process of trying to run our own code in order to implement everything we have learned about machine learning 
+so far. We are also updating ouy ML notes as we go. There are a few errors and things we are still trying to figure out. We are referring to the Google Colabs ML Crach Course for any additional information we mught need in order to get closer to having a working product. 
