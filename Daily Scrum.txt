@@ -3,6 +3,33 @@ More research
 Utilize online data to create a specific machine learning program- possibly start this at the end of week 
 Brainstorm possible limitations that come with our machines - areas of study that made me restricted
 
+11/20/19
+Today we plan on reading more about linear regression and its applications in ML. We also want to create a README and further
+brainstorm different data sets that we can use to train a machine.
 
+11/21/19
+Today we are switching from using Windows/RasPi to Google Collabs to further explore machine learning. We are going to start and
+hopefully finish the Machine Learning Crash Course category that is given on the homepage of Google Collabs. Our plan is to get
+comfortable with the content of this course which consists of: Intro to Pandas, TensorFlow concepts, First steps with TensorFlow,
+Intro to neural nets, Intro to sparse data and embeddings.
 
+11/22/19
+Today we are using Google Collabs to further explore machine learning. We are going to start and hopefully finish the Machine
+Learning Crash Course category that is given on the homepage of Google Collabs. Our plan is to get comfortable with the content of
+this course which consists of: Intro to Pandas, TensorFlow concepts, First steps with TensorFlow, Intro to neural nets, Intro to
+sparse data and embeddings. Doing the same things as yesterday, since we did not finish the ML Crash Course.
 
+11/25/19
+Today we are using Google Collabs to further explore machine learning. We are going to start and hopefully finish the Machine
+Learning Crash Course category that is given on the homepage of Google Collabs. Our plan is to get comfortable with the content of
+this course which consists of: Intro to Pandas, TensorFlow concepts, First steps with TensorFlow, Intro to neural nets, Intro to
+sparse data and embeddings. Doing the same things as yesterday, since we did not finish the ML Crash Course. This crash course is
+taking a while, there is a lot of new information we are trying to process. The course consists of a lot of reading and
+sample code for us to look through. It also provides us with different coding exercises and videos.
+
+12/3/19
+Today we are using Google Collabs to wrap up our exploration of machine learning. We are trying to make our document to utilize
+some of the ML tools that have been taught to us. We are looking over the Machine Learning Crash Course category that is given on
+the homepage of Google Collabs. Our plan is to get finish up with the content of this course which consists of: Intro to Pandas,
+TensorFlow concepts, First steps with TensorFlow, Intro to neural nets, Intro to sparse data and embeddings. Doing the same things
+as we did before. This crash course took a while, but we were able to get a lot from the new information we found.
