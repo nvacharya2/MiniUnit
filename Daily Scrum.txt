@@ -36,4 +36,6 @@ as we did before. This crash course took a while, but we were able to get a lot 
 
 12/4/19
 We are continuing our process of trying to run our own code in order to implement everything we have learned about machine learning 
-so far. We are also updating ouy ML notes as we go. There are a few errors and things we are still trying to figure out. We are referring to the Google Colabs ML Crach Course for any additional information we mught need in order to get closer to having a working product. 
+so far. We are also updating ouy ML notes as we go. There are a few errors and things we are still trying to figure out. We are 
+referring to the Google Colabs ML Crach Course for any additional information we mught need in order to get closer to having a 
+working product. 
